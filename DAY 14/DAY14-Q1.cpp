@@ -1,4 +1,4 @@
-//Maximum Element in a Bitonic Array
+//Maximum Element In A Bitonic Array
 class Solution
 {
 public:
