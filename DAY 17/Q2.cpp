@@ -1,5 +1,5 @@
 //Aggressive cows
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
 bool solve(int arr[], int n, int cows, int mid)
 {
