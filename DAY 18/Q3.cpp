@@ -1,4 +1,4 @@
-//Combination Sum II
+//40. Combination Sum I
 class Solution
 {
 public:
