@@ -1,4 +1,4 @@
-//37. Sudoku Solver
+//37. Sudoku Solve
 class Solution
 {
 public:
