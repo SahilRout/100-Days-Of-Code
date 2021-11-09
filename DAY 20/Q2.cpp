@@ -1,4 +1,4 @@
-//526. Beautiful Arrangements
+//526. Beautiful Arrangement
 class Solution
 {
 public:
